@@ -10,4 +10,4 @@
 	git pull
 
 # Check current status
-	git check
+	git status
