@@ -1,0 +1,13 @@
+# Clone repository to local machine
+	git clone "https:// ...... .git"
+
+# Push to github repository
+	git add -A
+	git commit -m "some descriptive message"
+	git push
+
+# Pull down to local repository
+	git pull
+
+# Check current status
+	git check
